@@ -87,7 +87,7 @@ The project processes a custom dataset organized as follows:
 
 | Input Image | Ground Truth | Prediction |
 | :---: | :---: | :---: |
-| ![Eye Sample](path/to/sample_eye.jpg) | (x, y) | (x, y) |
+| ![Eye Sample](screenshots/output.png) | (x, y) | (x, y) |
 
 ---
 
