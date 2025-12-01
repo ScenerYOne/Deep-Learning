@@ -54,7 +54,7 @@ The project processes a custom dataset organized as follows:
     * Head: Dense layers for regression.
     * Loss Function: Mean Squared Error (MSE) or similar regression metrics.
 
-## 💻 Getting Started
+##  Getting Started
 
 ### Prerequisites
 * Python 3.x
